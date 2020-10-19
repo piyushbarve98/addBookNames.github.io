@@ -1,14 +1,8 @@
-// const del = document.querySelectorAll('.delete');
-// del.forEach(function(btn)
-// {
-//     btn.addEventListener('click',function(e){
-//         const li= e.target.parentElement;
-//         li.parentNode.removeChild(li);
 
 
     
-//     });
-// });
+
+
 
 const list = document.querySelector('.list');
 
